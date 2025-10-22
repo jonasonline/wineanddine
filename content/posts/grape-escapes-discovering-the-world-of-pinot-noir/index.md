@@ -2,7 +2,7 @@
 title = "Grape Escapes: Discovering the World of Pinot Noir 🍇🍷"
 date = 2023-04-22
 slug = "grape-escapes-discovering-the-world-of-pinot-noir"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1632070868989-f141182d3d50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxwaW5vdCUyMG5vaXJ8ZW58MHx8fHwxNjgyMTUwNTAz&ixlib=rb-4.0.3&q=80&w=2000"
 +++

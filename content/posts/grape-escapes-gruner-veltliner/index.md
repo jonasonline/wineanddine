@@ -2,7 +2,7 @@
 title = "Grape Escapes: Grüner Veltliner"
 date = 2023-03-28
 slug = "grape-escapes-gruner-veltliner"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1472352327492-9765783b74e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHdoaXRlJTIwZ3JhcGVzfGVufDB8fHx8MTY3OTk1MjE5OQ&ixlib=rb-4.0.3&q=80&w=2000"
 +++

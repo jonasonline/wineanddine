@@ -2,7 +2,7 @@
 title = "Introducing \"Grape Escapes\": A New Blog Series on Wine Grapes"
 date = 2023-03-27
 slug = "introducing-grape-escapes-a-new-blog-series-on-wine-grapes"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1507039052720-05d5fcc00c62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHdoaXRlJTIwZ3JhcGVzfGVufDB8fHx8MTY3OTk1MjE5OQ&ixlib=rb-4.0.3&q=80&w=2000"
 +++

@@ -2,7 +2,7 @@
 title = "Grape Escapes: Discovering Negroamaro"
 date = 2023-05-12
 slug = "grape-escapes-discovering-negroamaro"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1596063093390-88100278299c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI0fHxibHVlJTIwZ3JhcGV8ZW58MHx8fHwxNjgzODgzOTMwfDA&ixlib=rb-4.0.3&q=80&w=2000"
 +++

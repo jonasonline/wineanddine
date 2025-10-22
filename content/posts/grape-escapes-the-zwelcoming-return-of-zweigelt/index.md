@@ -2,7 +2,7 @@
 title = "Grape Escapes: The Zwelcoming Return of Zweigelt"
 date = 2023-07-10
 slug = "grape-escapes-the-zwelcoming-return-of-zweigelt"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1602491399237-df7aba4fb658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fHJlZCUyMGdyYXBlfGVufDB8fHx8MTY4ODM4NDU5NXww&ixlib=rb-4.0.3&q=80&w=2000"
 +++

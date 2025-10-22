@@ -2,7 +2,7 @@
 title = "Grape Escapes: Unveiling the Hidden Gem of Foglia Tonda"
 date = 2023-07-28
 slug = "grape-escapes-unveiling-the-hidden-gem-of-foglia-tonda"
-categories = ["Wine"]
+categories = ["Wine", "Grape Escapes"]
 tags = ["Grape Escapes", "Wine Grapes"]
 image = "https://images.unsplash.com/photo-1508162172419-c47fcdf7d2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI1fHxibHVlJTIwZ3JhcGVzfGVufDB8fHx8MTY4OTAyNjYxNnww&ixlib=rb-4.0.3&q=80&w=2000"
 +++
