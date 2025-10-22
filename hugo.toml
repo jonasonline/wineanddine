@@ -37,8 +37,8 @@ subtitle = "From the Stovetop to the Grapevine"
 
 [params.sidebar.avatar]
 enabled = true
-local = false
-src = "/img/avatar.png"
+local = true
+src = "img/avatar.png"
 
 [params.article]
 math = false
