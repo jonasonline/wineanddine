@@ -3,7 +3,7 @@ title = "Easy-to-Grow Vegetables and Herbs for Your Greenhouse or Balcony Garden
 date = 2023-04-01
 slug = "easy-to-grow-vegetables-and-herbs-for-your-greenhouse-or-balcony-garden"
 categories = ["Food"]
-tags = 
+tags = ["Gardening", "Herbs", "Vegetables", "Growing"]
 image = "https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxob21lJTIwZ2FyZGVufGVufDB8fHx8MTY4MDM0Njk1NA&ixlib=rb-4.0.3&q=80&w=2000"
 +++
 

@@ -3,7 +3,8 @@ title = "Cooking with Tea: Infusing Unique Flavours into Your Favourite Dishes"
 date = 2023-08-22
 slug = "cooking-with-tea-infusing-unique-flavours-into-your-favourite-dishes"
 categories = ["Food"]
-tags = 
+tags = ["Cooking", "Tea", "Recipes", "Flavors"]
+
 image = "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHRlYXxlbnwwfHx8fDE2ODE1MDg2ODY&ixlib=rb-4.0.3&q=80&w=2000"
 +++
 
