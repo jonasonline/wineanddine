@@ -21,7 +21,6 @@ disqusShortname = ""
 mainSections = ["posts"]
 featuredImageField = "image"
 rssFullContent = true
-favicon = "/favicon.png"
 
 [params.footer]
 since = 2025
