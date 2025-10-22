@@ -37,8 +37,8 @@ subtitle = "From the Stovetop to the Grapevine"
 
 [params.sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "/img/avatar.png"
 
 [params.article]
 math = false
@@ -83,42 +83,16 @@ identifier = "home"
 name = "Home"
 url = "/"
 weight = 1
-
-[[menu.main]]
-identifier = "recipes"
-name = "Recipes"
-url = "/categories/recipes/"
-weight = 2
-
-[[menu.main]]
-identifier = "wine"
-name = "Wine"
-url = "/categories/wine/"
-weight = 3
-
-[[menu.main]]
-identifier = "life"
-name = "Life"
-url = "/categories/life/"
-weight = 4
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 5
-
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 6
+[menu.main.params]
+icon = "home"
 
 # Social media links
-[[params.socialIcons]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://instagram.com/jonas.nasman"
+[[menu.social]]
+identifier = "x"
+name = "X"
+url = "https://x.com/wineanddineblg"
+[menu.social.params]
+icon = "brand-twitter"
 
 # Markup configuration
 [markup.goldmark.renderer]
