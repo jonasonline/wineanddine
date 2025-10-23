@@ -1,4 +1,4 @@
-baseURL = 'https://wineanddine.blog/'
+baseURL = 'https://wineanddine.blog'
 languageCode = 'en-us'
 title = 'Wine and Dine'
 theme = 'hugo-theme-stack'
@@ -108,7 +108,7 @@ identifier = "x"
 name = "X"
 url = "https://x.com/wineanddineblg"
 [menu.social.params]
-icon = "brand-twitter"
+icon = "brand-x"
 
 # Markup configuration
 [markup.goldmark.renderer]
