@@ -37,7 +37,7 @@ subtitle = "From the Stovetop to the Grapevine"
 [params.sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/WinAndDineLogo02.png"
 
 [params.article]
 math = false
